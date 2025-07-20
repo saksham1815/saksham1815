@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saksham Saxena</h1>
+<h1 align="center">👋 Hi, I'm Saksham Saxena — a passionate and multi-skilled developer with a strong foundation in full-stack web development, machine learning, and computer vision. I actively work on diverse technologies and showcase consistent contributions to open-source projects.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham1815&label=Profile%20views&color=0e75b6&style=flat" alt="saksham1815" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
