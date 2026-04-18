@@ -1,20 +1,94 @@
-<h1 align="center">👋 Hi, I'm Saksham Saxena — a passionate and multi-skilled developer with a strong foundation in full-stack web development, machine learning, and computer vision. I actively work on diverse technologies and showcase consistent contributions to open-source projects.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham1815&label=Profile%20views&color=0e75b6&style=flat" alt="saksham1815" /> </p>
+<h1 align="center">👋 Hey, I'm Saksham Saxena</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🤖 ML & Computer Vision Enthusiast | 💡 Problem Solver</h3>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saksham-saxena-803544266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-saxena-803544266" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_2215001545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_2215001545" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saxenasaksham09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saxenasaksham09" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saksham1815&label=Profile%20views&color=0e75b6&style=flat" alt="saksham1815" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham1815&show_icons=true&locale=en&layout=compact" alt="saksham1815" /></p>
+### 🌟 About Me
+- 🔭 Currently building **AI-powered & Full-Stack Applications**
+- 🧠 Strong in **Machine Learning, Computer Vision & Data Analysis**
+- ⚙️ Love working with **real-time systems & automation**
+- 🌱 Exploring **Cloud, DevOps & scalable architectures**
+- 💬 Ask me about **ML, React, Node.js, OpenCV, or anything tech**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham1815&show_icons=true&locale=en" alt="saksham1815" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham1815&" alt="saksham1815" /></p>
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/saksham-saxena-803544266" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/_2215001545" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+<a href="https://www.leetcode.com/saxenasaksham09" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+#### 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+#### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
+</p>
+
+#### 🤖 Machine Learning & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+#### ☁️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,sqlite,figma,heroku" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham1815&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham1815&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham1815&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Featured Work
+- 🔍 **AI Data Analysis Platform** – Upload datasets, visualize insights, train ML models
+- 🎭 **Facial Emotion Detection App** – Real-time emotion recognition using deep learning
+- ✍️ **Sketch Generator** – Converts facial features JSON → human sketch
+- 🌦️ **Weather App (React + Node)** – Real-time weather with API integration
+
+---
+
+### 🚀 Fun Fact
+> I build things that **see, think, and interact** 🤖
+
+---
+
+### 💡 Quote I Live By
+> *"Consistency beats talent when talent doesn’t work hard."*
+
+---
+
+⭐️ From [Saksham Saxena](https://github.com/saksham1815)
